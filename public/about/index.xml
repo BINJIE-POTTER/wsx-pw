@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Xwever</title>
+    <link>https://xwever.me/about/</link>
+    <description>Recent content in Abouts on Xwever</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Jun 2023 21:08:27 +0800</lastBuildDate><atom:link href="https://xwever.me/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://xwever.me/about/intro/</link>
+      <pubDate>Thu, 15 Jun 2023 21:08:27 +0800</pubDate>
+      
+      <guid>https://xwever.me/about/intro/</guid>
+      <description>Hello! My name is Shixian Wang, and I was born in 2003. Currently, I am a third-year student at the University of Ottawa, majoring in accounting. As an aspiring accountant, I have always been fascinated by the world of numbers and finances. It&amp;rsquo;s incredible how they can tell a story and provide insights into the workings of a business.</description>
+    </item>
+    
+  </channel>
+</rss>

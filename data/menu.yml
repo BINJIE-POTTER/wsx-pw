@@ -1,0 +1,6 @@
+- item: About
+  url: about/
+- item: Post
+  url: post/
+- item: Project
+  url: project/
